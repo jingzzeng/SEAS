@@ -39,3 +39,5 @@ vignettes/*.pdf
 .Renviron
 
 .DS_Store
+acc_form.Rmd
+acc_form.pdf
